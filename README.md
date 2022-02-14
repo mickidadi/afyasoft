@@ -1,2 +1,2 @@
-# afyasoft
-Hospital Management System
+# Mickidadimsoka@gmail.com 
+# Hospital management system
